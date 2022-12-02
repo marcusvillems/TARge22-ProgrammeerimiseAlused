@@ -7,6 +7,5 @@ def ask_and_sum_two_numbers():
 if __name__ == "__main__":
     ask_and_sum_two_numbers()
     
-#yes
-#no
+
     
