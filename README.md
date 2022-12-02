@@ -1,5 +1,6 @@
 # TARge22 Programmeerimise alused
 
-Autor: Mina ise
+
+Autor: Marcus Villems
 
 Minu tehtud tööd antud aines.
