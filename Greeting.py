@@ -1,4 +1,8 @@
+""" Greeting program."""
+
+
 def greeting():
+    """ Asks for users name and greets them """
     name = input("What is your name?")
     print("Hello, " + name + "!")
     
